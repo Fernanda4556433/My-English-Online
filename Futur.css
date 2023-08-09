@@ -1,0 +1,61 @@
+body{
+   
+    font-family:'Roboto', sans-serif;
+}
+
+*{
+    box-sizing: border-box;
+
+}
+
+body{
+    body{
+   
+        font-family:'Roboto', sans-serif;
+    }
+    
+    *{
+        box-sizing: border-box;
+    
+    }
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    height: 300vh;
+    color: #fff;
+    background-image: linear-gradient(
+      0deg,
+      rgba(0,0,0,0.5),
+      rgba(0,0,0,0.5) 
+  )
+  ,url("aprendiendo.jpg"); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+  
+  
+  body{
+    text-align: center; 
+    font-family:'Roboto', sans-serif; 
+    font-weight: bold;
+  }
+  
+  
+  .title {
+      margin-bottom: 40px;
+      font-size: 60px;
+      text-transform: uppercase;
+  
+  }
+
+  .contenedor{
+    flex-direction: column;
+  }
+
+  
+
+table{
+    margin: 0 auto;
+}
